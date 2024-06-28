@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 📚Tech Skills📚
 Python JavaScript 
+
 🌈 About Me 🌈
     
 
