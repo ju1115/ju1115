@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+📚Tech Skills📚
+Python JavaScript 
+🌈 About Me 🌈
+    
+
+
+✏️ Study log
+
+https://solved.ac/profile/joo4123
+
+--------------------------------------------------------------------------------------------------
+🌱 Education: <2024> AI+DX develop education (2024.5~2024.6)
+
+🌱🌱 Activity
+<2024> AI+DX develop education (2024.5~2024.6)
+
+🌱🌱🌱 Competition
+
+🌱🌱🌱🌱 Intern
+
