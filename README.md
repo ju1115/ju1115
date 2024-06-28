@@ -24,7 +24,7 @@ Python JavaScript
 
 ✏️ Study log
 
-https://solved.ac/profile/joo4123
+
 
 --------------------------------------------------------------------------------------------------
 🌱 Education: <2024> AI+DX develop education (2024.5~2024.6)
