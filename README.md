@@ -1,4 +1,4 @@
-## Hi I`m Lee Seung Ju  👋
+## Hi I'm Lee Seung Ju  👋
 
 <!--
 **ju1115/ju1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
