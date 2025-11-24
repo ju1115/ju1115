@@ -7,6 +7,7 @@ A passionate developer from South Korea.
 ---
 
 ### 📚 Tech Skills 📚
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -24,34 +25,43 @@ A passionate developer from South Korea.
 ---
 
 ### 🌈 About Me 🌈
+
 - 🤔 I’m interested in backend development and cloud computing.
 - 🌱 I’m currently learning about microservices architecture.
 - 💬 Ask me about anything related to Java, Spring, or my projects.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [joo4123@naver.com](mailto:joo4123@naver.com)
 
 ---
 
 ### ✏️ Study Log & Projects
-- **Project A** (2024.MM ~ 2024.MM)
-  - Description of the project.
-  - My role and contributions.
-  - [Link to Repository](https://github.com/your-repo)
 
-- **Project B** (2024.MM ~ 2024.MM)
+- **Matching SSAFY** (2025.07 ~ 2025.08)
+
   - Description of the project.
   - My role and contributions.
-  - [Link to Repository](https://github.com/your-repo)
+  - [Link to Repository](https://github.com/ju1115/Matching_SSAFY)
+
+- **BISKIT** (2025.08 ~ 2025.09)
+
+  - Description of the project.
+  - My role and contributions.
+  - [Link to Repository](https://github.com/ju1115/BISKIT)
+
+- **ILOG** (2025.10 ~ 2025.11)
+  - Description of the project.
+  - My role and contributions.
+  - [Link to Repository](https://github.com/ju1115/ilog)
 
 ---
 
 ### 🌱 Career & Activities
+
 - **AI+DX Develop Education** (2024.05 ~ 2024.06)
+
   - Learned about AI and Digital Transformation technologies.
 
-- **Internship at Company X** (YYYY.MM ~ YYYY.MM)
-  - Details about the internship experience.
+- **삼성 SW 아카데미** (2025.01 ~ 2025.12)
 
-- **Competition Y** (YYYY.MM)
-  - Details about the competition and any awards.
+  - Learned about JSX + Web MVC, VUE + SPRING BOOT
 
 ---
