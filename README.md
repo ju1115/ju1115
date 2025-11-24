@@ -1,39 +1,57 @@
-## Hi I'm Lee Seung Ju  👋
+## Hi I'm Lee Seung Ju 👋
 
-<!--
-**ju1115/ju1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fju1115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+A passionate developer from South Korea.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 📚 Tech Skills 📚
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
 
-📚Tech Skills📚
-Python JavaScript 
+---
 
-🌈 About Me 🌈
-    
+### 🌈 About Me 🌈
+- 🤔 I’m interested in backend development and cloud computing.
+- 🌱 I’m currently learning about microservices architecture.
+- 💬 Ask me about anything related to Java, Spring, or my projects.
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
 
+---
 
-✏️ Study log
+### ✏️ Study Log & Projects
+- **Project A** (2024.MM ~ 2024.MM)
+  - Description of the project.
+  - My role and contributions.
+  - [Link to Repository](https://github.com/your-repo)
 
+- **Project B** (2024.MM ~ 2024.MM)
+  - Description of the project.
+  - My role and contributions.
+  - [Link to Repository](https://github.com/your-repo)
 
+---
 
---------------------------------------------------------------------------------------------------
-🌱 Education: <2024> AI+DX develop education (2024.5~2024.6)
+### 🌱 Career & Activities
+- **AI+DX Develop Education** (2024.05 ~ 2024.06)
+  - Learned about AI and Digital Transformation technologies.
 
-🌱🌱 Activity
-<2024> AI+DX develop education (2024.5~2024.6)
+- **Internship at Company X** (YYYY.MM ~ YYYY.MM)
+  - Details about the internship experience.
 
-🌱🌱🌱 Competition
+- **Competition Y** (YYYY.MM)
+  - Details about the competition and any awards.
 
-🌱🌱🌱🌱 Intern
-
+---
