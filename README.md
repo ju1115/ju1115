@@ -1,6 +1,6 @@
 ## Hi I'm Lee Seung Ju 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fju1115&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![solved.ac tier](https://mazassumnida.wtf/api/v2/generate_badge?boj=joo4123)](https://solved.ac/joo4123)
 
 A passionate developer from South Korea.
 
