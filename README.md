@@ -65,6 +65,13 @@ A passionate backend developer from South Korea with an interest in cloud comput
 
 ---
 
+### 📚 Study Repositories
+
+- **[Study Log](https://github.com/ju1115/Study_log)**: A repository to keep a log of my daily studies.
+- **[Study Algorithm](https://github.com/ju1115/Study_algorithm)**: A repository for practicing and documenting algorithm problems.
+
+---
+
 ### 🌱 Career & Education
 
 - **Samsung SW Academy** (SSAFY) (2025.01 ~ 2025.12)
