@@ -36,20 +36,18 @@ A passionate developer from South Korea.
 ### ✏️ Study Log & Projects
 
 - **Matching SSAFY** (2025.07 ~ 2025.08)
-
-  - Description of the project.
-  - My role and contributions.
+  - A project to improve the convenience of team building within a bootcamp by structuring it. We collaborated using Jira for work progress, and shared APIs and conventions using Notion and Swagger.
+  - My role and contributions: Team Leader, Backend and Infrastructure. I was in charge of infrastructure and backend development.
   - [Link to Repository](https://github.com/ju1115/Matching_SSAFY)
 
 - **BISKIT** (2025.08 ~ 2025.09)
-
-  - Description of the project.
-  - My role and contributions.
+  - A mono-repo for a web application consisting of front-end, back-end, and AI services. It is fully containerized using Docker. Main features include AI-based commercial and location recommendations, map-based visualization, and real-time chat.
+  - My role and contributions: Team Leader, Backend. I was in charge of developing the backend recommendation domain.
   - [Link to Repository](https://github.com/ju1115/BISKIT)
 
 - **ILOG** (2025.10 ~ 2025.11)
-  - Description of the project.
-  - My role and contributions.
+  - A parenting diary service.
+  - My role and contributions: Backend development.
   - [Link to Repository](https://github.com/ju1115/ilog)
 
 ---
