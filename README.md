@@ -9,6 +9,7 @@ A passionate backend developer from South Korea with an interest in cloud comput
 ### 🤙 Find Me Online
 
 - 📧 **Email**: [joo4123@naver.com](mailto:joo4123@naver.com)
+- 🏠 **Portfolio**: [https://ju1115.github.io](https://ju1115.github.io)
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url) <!--- 여기에 링크드인 프로필 URL을 추가하세요. -->
 
 ---
